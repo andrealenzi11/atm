@@ -1,6 +1,11 @@
 # atm
 ATM: Adversarial-neural Topic Model
 
+**This repository presents an unofficial implementation of ATM**
+
+
+---------------------------------------------------------------
+
 Paper URL:
 https://arxiv.org/abs/1811.00265
 
@@ -23,10 +28,11 @@ Abstract:
     Our experimental results on the two public corpora show that ATM generates more coherence topics,
     outperforming a number of competitive baselines.
     Moreover, ATM is able to extract meaningful events from news articles.
+    
+---------------------------------------------------------------
 
 
-for the ATM Implementation, there isn't an official repository.
-Thus, we implemented our solution
-starting from the official paper
-and taking inspiration from some aspects of a the third part repository:
+I have not found an official repository for the ATM Implementation.
+Thus, I implemented this solution
+starting from the official paper and taking inspiration from some aspects of the third part repository:
 https://github.com/ravichoudharyds/Topic_Modeling
